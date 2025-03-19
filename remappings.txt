@@ -1,0 +1,11 @@
+forge-std/=lib/forge-std/src/
+contracts/IWETH.sol/=src/IWETH.sol/
+contracts/MetaSwap.sol/=src/MetaSwap.sol/
+contracts/mocks/=src/mocks/
+contracts/adapters/=src/adapters/
+contracts/Constants.sol/=src/Constants.sol/
+contracts/ICHI.sol/=src/ICHI.sol/
+contracts/Spender.sol/=src/Spender.sol/
+contracts/Imports.sol/=src/Imports.sol/
+@openzeppelin/=lib/@openzeppelin/
+@uniswap/=lib/@uniswap/
